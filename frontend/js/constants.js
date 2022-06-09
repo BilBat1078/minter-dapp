@@ -1,7 +1,7 @@
 const contractAddress = "0x0E7aB895EA61AcfE44A1a8BaF8D72222e8bA4121"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Mint a Leakie with this NFT Project!";
+const welcome_h1 = "Mint Your Leakie Now!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Leakies were created to enable anyone to own something that is guaranteed to Leak';
 const h1_presale_coming_soon = "NFT Drop Leaking Soon!!";
